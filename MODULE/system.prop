@@ -12,6 +12,8 @@ persist.sys.privacy_camera=true
 persist.vendor.camera.facetracker.support=true
 debug.mi.filter.lut.open=true
 vendor.somc.qti_lea.support=true
+vendor.perf.framepacing.enable=false
+persist.sys.background_blur_supported=true
 
 # @ ? Use Github and add features you find yourself
 # prop.prop=true
