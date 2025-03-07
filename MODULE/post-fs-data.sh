@@ -12,5 +12,7 @@ resetprop ro.vendor.audio.spk.clean true
 # vendor.mi.filter.lut.enable wait
 resetprop persist.sys.privacy_camera true
 resetprop persist.vendor.camera.facetracker.support true
+resetprop vendor.perf.framepacing.enable 0
+resetprop persist.sys.background_blur_supported true
 
 # @ ? Use Github and add features you find yourself
